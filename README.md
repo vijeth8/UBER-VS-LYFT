@@ -2,6 +2,9 @@
 Surge analysis
 
 
+<img src="DAG.png">
+
+
 <img src="demo.png">
 
 
