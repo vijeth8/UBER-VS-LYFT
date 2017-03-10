@@ -26,7 +26,7 @@ Surge analysis
 
 #Webapp
 
-Spyre, Use the final_spyre.py
+Run Spyre on a new EC2 instance, Use the final_spyre.py.
 
 #
 
