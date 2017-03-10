@@ -2,10 +2,10 @@
 Surge analysis
 
 
-<img src="DAG.png">
+<img src="images/DAG.png">
 
 
-<img src="demo.png">
+<img src="images/demo.png">
 
 
-<img src="table_on_web.png">
+<img src="images/table_on_web.png">
