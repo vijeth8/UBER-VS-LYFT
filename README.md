@@ -37,6 +37,9 @@ Run Spyre on a new EC2 instance, Use the final_spyre.py.
 <img src="images/demo.png">
 
 
+<img src="images/select_location.png">
+
+
 <img src="images/table_on_web.png">
 
 
