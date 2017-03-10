@@ -1,0 +1,1 @@
+*/2 * * * * *  python uber_lyft_api_call.py
