@@ -37,7 +37,7 @@ Surge analysis
 <img src="images/demo.png">
 
 
-<img src="images/select_location.png">
+<img src="images/select_location_.png">
 
 
 <img src="images/table_on_web.png">
