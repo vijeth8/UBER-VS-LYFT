@@ -1,8 +1,6 @@
 # UBER-VS-LYFT
 Surge analysis
 
-http://ec2-54-86-212-27.compute-1.amazonaws.com:5000/?ticker=airport&
-
 #Kinesis
 
 >1. Setup Kinesis firehose on aws
