@@ -22,7 +22,7 @@ Surge analysis
 
 >1. Create 2 tables : Uber and Lyft
 
->2. Read data into each table from the spark script
+>2. Read data into each table using the spark script
 
 #Webapp
 
